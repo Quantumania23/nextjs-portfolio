@@ -1,10 +1,11 @@
 // next image
 import Image from "next/image";
+import React from "react";
 
 //components
-import ParticlesContainer from '../components/ParticlesContainer.js';
-import ProjectsBtn from '../components/ProjectsBtn.js';
-import Avatar from '../components/Avatar.js';
+import ParticlesContainer from '../Components/ParticlesContainer.js';
+import ProjectsBtn from '../Components/ProjectsBtn.js';
+import Avatar from '../Components/Avatar.js';
 
 // framer motion
 import {motion} from 'framer-motion';
@@ -53,7 +54,6 @@ const Home = () => {
             exit='hidden'
             className='hidden xl:flex'
             >
-              <ProjectsBtn/>
             </motion.div>
         </div>
       </div>

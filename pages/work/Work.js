@@ -1,7 +1,7 @@
 // components
-import WorkSlider from '../../components/WorkSlider.js';
-import Bulb from '../../components/Bulb.js';
-import Circles from '../../components/Circles.js';
+import WorkSlider from '../../Components/WorkSlider.js';
+import Bulb from '../../Components/Bulb.js';
+import Circles from '../../Components/Circles.js';
 
 // framer motion
 import {motion} from 'framer-motion';
@@ -10,6 +10,7 @@ import {fadeIn} from '../../variants.js';
 const Work = () => {
   return (
     <div className='h-full bg-primary/30 py-36 flex items-center'>
+      {/* <Circles/> */}
       <Circles/>
       <div className='container mx-auto'>
         <div className='flex flex-col xl:flex-row gap-x-8'>

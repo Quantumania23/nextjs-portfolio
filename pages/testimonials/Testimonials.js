@@ -1,5 +1,5 @@
 // components
-import TestimonialSlider from "../../components/TestimonialSlider.js";
+import TestimonialSlider from "../../Components/TestimonialSlider.js";
 
 // framer motion
 import {motion} from 'framer-motion'

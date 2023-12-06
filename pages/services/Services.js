@@ -1,7 +1,7 @@
 // components
-import ServiceSlider from '../../components/ServiceSlider.js';
-import Bulb from '../../components/Bulb.js';
-import Circles from '../../components/Circles.js';
+import ServiceSlider from '../../Components/ServiceSlider.js';
+import Bulb from '../../Components/Bulb.js';
+import Circles from '../../Components/Circles.js';
 
 // framer motion
 import {motion} from 'framer-motion';

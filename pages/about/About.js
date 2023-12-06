@@ -360,8 +360,8 @@ const aboutData = [
 ];
 
 // components
-import Avatar from "../../components/Avatar.js";
-import Circles from "../../components/Circles.js";
+import Avatar from "../../Components/Avatar.js";
+import Circles from "../../Components/Circles.js";
 
 // framer motion
 import { motion } from "framer-motion";

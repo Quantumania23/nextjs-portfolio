@@ -1,23 +1,23 @@
 // testimonial data
 const testimonialData = [
   {
-    image: '/t-avt-1.png',
+    image: '/public/t-avt-1.png',
     name: 'Carol Muinde',
-    position: 'Customer',
+    position: 'Client',
     message:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
   },
   {
-    image: '/t-avt-2.png',
+    image: '/public/t-avt-2.png',
     name: 'Carlos Lakaka',
-    position: 'Customer',
+    position: 'Client',
     message:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
   },
   {
-    image: '/t-avt-3.png',
-    name: 'Byorn Hyinsite',
-    position: 'Customer',
+    image: '/public/t-avt-3.png',
+    name: 'Byorn Ironside',
+    position: 'Client',
     message:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
   },
